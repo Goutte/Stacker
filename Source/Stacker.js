@@ -3,8 +3,6 @@
 
  description: Smooth opacity-tweened switch between background-imaged divisions in the same container (absolute position)
 
-              Last update : 2012-04
-
  authors:
  - Goutte <antoine@goutenoir.com>
 
@@ -18,7 +16,7 @@
  - Mootools
 
  provides:
- - ImageSwitcher
+ - Stacker
 
  ...
  */
